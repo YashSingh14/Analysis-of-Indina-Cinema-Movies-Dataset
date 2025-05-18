@@ -1,1 +1,1 @@
-# Analysis-of-Indina-Cinema-Movies-Dataset
+# Analysis-of-Indian-Cinema-Movies-Dataset
